@@ -47,7 +47,7 @@ OBS: ao clonar um repositorio, utilizar a opção https, será pedido o token.
 -inicializa um repositorio git, numa pasta oculta .git
 - para listar os arquivos ocultos (ls -a)
 
--> git config --global user.email "email@email.com"
+-> git config --global user.email "email@email.com" (este email deve ser preferencialmente o email do GitHub para evitar conflitos)
 -> git config --global user.name "name"
 - Configurando usuario e email, pode ser de forma global para maquina ou apenas para o repositorio
 
