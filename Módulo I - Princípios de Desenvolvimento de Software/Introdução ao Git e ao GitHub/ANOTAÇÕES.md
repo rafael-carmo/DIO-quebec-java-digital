@@ -51,6 +51,9 @@ OBS: ao clonar um repositorio, utilizar a opção https, será pedido o token.
 -> git config --global user.name "name"
 - Configurando usuario e email, pode ser de forma global para maquina ou apenas para o repositorio
 
+Listando configurações
+-> git config --list
+
 -> git add *
 - Adiciona os arquivos na stage area, que entrarão no proximo commit
 
